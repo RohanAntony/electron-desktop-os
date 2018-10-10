@@ -1,0 +1,19 @@
+{
+  "name": "electron-desktop-os",
+  "version": "1.0.0",
+  "description": "Desktop OS which mimics actual OS written on top of electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Desktop",
+    "Electron",
+    "OS"
+  ],
+  "author": "rohan_antony",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.11"
+  }
+}
